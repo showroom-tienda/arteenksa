@@ -1,0 +1,21 @@
+CATÁLOGO EN LÍNEA — ARTE EN KSA
+================================
+
+Contenido del paquete:
+  index.html      -> la página del catálogo (página de inicio del sitio)
+  logo.png        -> el logotipo
+  img/            -> las 47 fotos de los productos
+
+Cómo subirlo a tu sitio web:
+  1) Sube TODO el contenido de este ZIP a la carpeta raíz de tu hosting
+     (por ejemplo public_html, www o htdocs), manteniendo la carpeta "img".
+  2) Abre tu dominio: verás el catálogo en index.html.
+  3) No renombres ni muevas las fotos dentro de la carpeta "img":
+     el HTML las busca con esa ruta.
+
+Contacto configurado en el catálogo:
+  WhatsApp: +53 58 22 91 90
+  Dirección: Avenida 14 entre Calle 3 y Calle 5, Jovellanos, Matanzas
+  Los precios están en CUP.
+
+El botón "Contactar Ya" de cada producto abre WhatsApp con el mensaje ya escrito.
